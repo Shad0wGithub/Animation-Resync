@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/heldTpHitAnimationByType/axe-bardiche-*",
+    "value": "newaxechop",
+    "file": "game:itemtypes/tool/axe-metal.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/heldTpHitAnimationByType/axe-double-*",
+    "value": "newaxechop",
+    "file": "game:itemtypes/tool/axe-metal.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/heldTpHitAnimationByType/axe-felling-*",
+    "value": "newaxechop",
+    "file": "game:itemtypes/tool/axe-metal.json",
+    "side": "Server"
+  }
+]

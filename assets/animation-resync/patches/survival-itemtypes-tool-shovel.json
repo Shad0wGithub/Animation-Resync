@@ -1,0 +1,55 @@
+[
+  {
+    "op": "replace",
+    "path": "/heldRightReadyAnimation",
+    "value": "newshovelready",
+    "file": "game:itemtypes/tool/shovel.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/heldTpHitAnimation",
+    "value": "newshoveldig",
+    "file": "game:itemtypes/tool/shovel.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/tpHandTransform/origin",
+    "value": {
+      "x": 0.15,
+      "y": 0,
+      "z": 0.217
+    },
+    "file": "game:itemtypes/tool/shovel.json",
+    "side": "server"
+  },
+  {
+    "op": "replace",
+    "path": "/tpHandTransform/rotation/z",
+    "value": 0,
+    "file": "game:itemtypes/tool/shovel.json",
+    "side": "server"
+  },
+  {
+    "op": "replace",
+    "path": "/tpHandTransform/translation/x",
+    "value": 0,
+    "file": "game:itemtypes/tool/shovel.json",
+    "side": "server"
+  },
+  {
+    "op": "replace",
+    "path": "/tpHandTransform/translation/y",
+    "value": 0,
+    "file": "game:itemtypes/tool/shovel.json",
+    "side": "server"
+  },
+  {
+    "op": "replace",
+    "path": "/tpHandTransform/translation/z",
+    "value": 0,
+    "file": "game:itemtypes/tool/shovel.json",
+    "side": "server"
+  }
+]

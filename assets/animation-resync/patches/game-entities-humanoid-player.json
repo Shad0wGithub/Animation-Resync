@@ -1,0 +1,154 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/client/animations/192",
+    "value": {
+      "code": "newaxechop",
+      "animation": "newaxechop",
+      "blendMode": "Add",
+      "animationSpeed": 1.65,
+      "holdEyePosAfterEasein": 0.3,
+      "elementWeight": {
+        "UpperArmR": 20,
+        "LowerArmR": 20,
+        "UpperArmL": 20,
+        "LowerArmL": 20
+      },
+      "elementBlendMode": {
+        "UpperArmR": "AddAverage",
+        "LowerArmR": "AddAverage",
+        "UpperArmL": "AddAverage",
+        "LowerArmL": "AddAverage"
+      }
+    },
+    "file": "game:entities/humanoid/player.json",
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "path": "/client/animations/193",
+    "value": {
+      "code": "newaxechop-fp",
+      "animation": "newaxechop-fp",
+      "blendMode": "Add",
+      "animationSpeed": 1.65,
+      "holdEyePosAfterEasein": 0.3,
+      "elementWeight": {
+        "UpperArmR": 20,
+        "LowerArmR": 20,
+        "UpperArmL": 20,
+        "LowerArmL": 20
+      },
+      "elementBlendMode": {
+        "UpperArmR": "AddAverage",
+        "LowerArmR": "AddAverage",
+        "UpperArmL": "AddAverage",
+        "LowerArmL": "AddAverage"
+      }
+    },
+    "file": "game:entities/humanoid/player.json",
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "path": "/client/animations/194",
+    "value": {
+      "code": "newpickaxe",
+      "animation": "newpickaxe",
+      "animationSpeed": 1.65,
+      "holdEyePosAfterEasein": 0,
+      "blendMode": "Add",
+      "elementWeight": {
+        "UpperArmR": 20,
+        "LowerArmR": 20,
+        "UpperArmL": 20,
+        "LowerArmL": 20
+      },
+      "elementBlendMode": {
+        "UpperArmR": "AddAverage",
+        "LowerArmR": "AddAverage",
+        "UpperArmL": "AddAverage",
+        "LowerArmL": "AddAverage"
+      }
+    },
+    "file": "game:entities/humanoid/player.json",
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "path": "/client/animations/195",
+    "value": {
+      "code": "newpickaxe-fp",
+      "animation": "newpickaxe-fp",
+      "animationSpeed": 1.65,
+      "holdEyePosAfterEasein": 0,
+      "blendMode": "Add",
+      "elementWeight": {
+        "UpperArmR": 20,
+        "LowerArmR": 20,
+        "UpperArmL": 20,
+        "LowerArmL": 20
+      },
+      "elementBlendMode": {
+        "UpperArmR": "AddAverage",
+        "LowerArmR": "AddAverage",
+        "UpperArmL": "AddAverage",
+        "LowerArmL": "AddAverage"
+      }
+    },
+    "file": "game:entities/humanoid/player.json",
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "path": "/client/animations/196",
+    "value": {
+      "code": "newshoveldig",
+      "animation": "newshoveldig",
+      "blendMode": "Add",
+      "animationSpeed": 1.65,
+      "holdEyePosAfterEasein": 0.4,
+      "elementWeight": {
+        "UpperArmR": 20,
+        "LowerArmR": 20,
+        "UpperArmL": 20,
+        "LowerArmL": 20,
+        "ItemAnchor": 20
+      },
+      "elementBlendMode": {
+        "UpperArmR": "AddAverage",
+        "LowerArmR": "AddAverage",
+        "UpperArmL": "AddAverage",
+        "LowerArmL": "AddAverage",
+        "ItemAnchor": "AddAverage"
+      }
+    },
+    "file": "game:entities/humanoid/player.json",
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "path": "/client/animations/197",
+    "value": {
+      "code": "newshoveldig-fp",
+      "animation": "newshoveldig-fp",
+      "blendMode": "Add",
+      "animationSpeed": 1.65,
+      "holdEyePosAfterEasein": 0.4,
+      "elementWeight": {
+        "UpperArmR": 20,
+        "LowerArmR": 20,
+        "UpperArmL": 20,
+        "LowerArmL": 20
+      },
+      "elementBlendMode": {
+        "UpperArmR": "AddAverage",
+        "LowerArmR": "AddAverage",
+        "UpperArmL": "AddAverage",
+        "LowerArmL": "AddAverage"
+      }
+    },
+    "file": "game:entities/humanoid/player.json",
+    "side": "Server"
+  }
+]

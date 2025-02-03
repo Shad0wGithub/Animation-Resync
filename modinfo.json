@@ -1,0 +1,13 @@
+{
+    "type": "theme",
+    "modid": "animation-resync",
+    "name": "Animation Resync",
+    "authors": ["Shrewbloom"],
+    "description": "Fixes the new animations not matching the corrosponding sounds",
+    "version": "1.2.19",
+    "Side": "Server",
+    "dependencies": {
+        "game": "",
+        "survival": ""
+    }
+}
